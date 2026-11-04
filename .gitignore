@@ -1,0 +1,17 @@
+# Generated experiment results
+results/
+
+# Model weights and large tensors
+*.pt
+*.pth
+*.safetensors
+
+# Python temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+.env
+.env.*
