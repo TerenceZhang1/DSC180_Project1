@@ -31,7 +31,7 @@ We also implement activation steering by modifying the model's hidden representa
 
 AI use statement:
 
-Claude were used to assist with code development, debugging, troubleshooting technical issues, and documentation. All experiments were conducted and results evaluated by the project team.
+Claude was used to assist with code development, debugging, troubleshooting technical issues, and documentation. All experiments were conducted and results evaluated by the project team.
 
 
 References
