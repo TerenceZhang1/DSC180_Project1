@@ -1,0 +1,9 @@
+file,coeff,rate,hits,n
+4.2_steering_Qwen2.5-1.5B-Instruct_L9.csv,-2.0,0.0,0,50
+4.2_steering_Qwen2.5-1.5B-Instruct_L9.csv,-1.0,0.0,0,50
+4.2_steering_Qwen2.5-1.5B-Instruct_L9.csv,0.0,2.0,1,50
+4.2_steering_Qwen2.5-1.5B-Instruct_L9.csv,0.5,4.0,2,50
+4.2_steering_Qwen2.5-1.5B-Instruct_L9.csv,1.0,4.0,2,50
+4.2_steering_Qwen2.5-1.5B-Instruct_L9.csv,1.5,0.0,0,50
+4.2_steering_Qwen2.5-1.5B-Instruct_L9.csv,2.0,0.0,0,50
+4.2_steering_Qwen2.5-1.5B-Instruct_L9.csv,3.0,0.0,0,50
