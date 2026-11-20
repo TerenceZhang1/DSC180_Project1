@@ -1,0 +1,36 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "activations": "/home/tez002/capstone/DSC180_Project1/results/activations",
+  "layers": [
+    9,
+    27
+  ],
+  "focus_layer": 27,
+  "folds": 5,
+  "seed": 42,
+  "pca_variance": 0.5,
+  "baselines": [
+    "all_controls",
+    "neutral"
+  ],
+  "methods": [
+    "raw",
+    "denoised"
+  ],
+  "extraction": [
+    "final_token",
+    "mean"
+  ],
+  "numpy": "1.26.4",
+  "pandas": "2.2.2",
+  "compare_steering_layers": true,
+  "steering_layer_comparison": {
+    "vector_layer": 27,
+    "hook_layer": 9,
+    "dataset": "S2_1P",
+    "extraction": "final_token",
+    "baseline": "all_controls",
+    "method": "denoised",
+    "evaluation": "held-out activation projections"
+  }
+}
